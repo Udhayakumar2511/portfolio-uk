@@ -42,7 +42,7 @@ const About: React.FC = () => {
               {USER_BIO}
             </p>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Currently focused on developing skills in data science, machine learning, and artificial intelligence with a passion for creating innovative solutions to real-world problems.
+              Currently working on an MSME project focused on IoT-based solutions, while continuing to develop skills in data science, machine learning, and artificial intelligence with a passion for building innovative technologies to solve real-world problems.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">

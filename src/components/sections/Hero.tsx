@@ -50,6 +50,7 @@ const Hero: React.FC = () => {
             className="px-6 py-3 border-2 border-white hover:bg-white hover:text-gray-900 transition-colors duration-300 rounded-md font-medium"
           >
             Contact Me
+            
           </button>
         </div>
       </div>
